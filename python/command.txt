@@ -1,0 +1,22 @@
+env\Scripts\activate.bat
+
+python python\process_ind_1.py
+python python\process_ind_2.py
+
+python python\process_mx_1.py
+python python\process_mx_2.py
+
+python python\process_apac_1.py
+python python\process_apac_2.py
+
+python python\process_mea_1.py
+python python\process_mea_2.py
+
+python python\process_csa_1.py
+python python\process_csa_2.py
+
+python python\process_eur_1.py
+python python\process_eur_2.py
+
+python python\process_HMD_1.py
+python python\process_HMD_2.py
